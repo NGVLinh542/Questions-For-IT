@@ -1,6 +1,6 @@
 # CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT <br>DATA STRUCTS AND ALGORITHM
 
-## #5.1 STACK - NGĂN XẾP
+### #5.1 STACK - NGĂN XẾP
 
 * **Miêu tả Stack bằng ví dụ hình học**
 * **Stack là một cấu trúc dữ liệu đơn giản**
